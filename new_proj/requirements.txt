@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+dash
+psutil
+
+pytest
+pytest-cov
+httpx
